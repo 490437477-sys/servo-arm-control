@@ -1,4 +1,4 @@
-﻿# Servo Arm Control System
+# Servo Arm Control System
 
 A complete 5-servo robotic arm control system with three control methods.
 
@@ -85,4 +85,4 @@ Do not apply excessive force. Servo stall causes current surge and board restart
 
 ## Support
 
-GitHub: https://github.com/490437477-sys/servo-arm-control
+GitHub: https://github.com/490437477-sys/ARM3
